@@ -1,0 +1,24 @@
+[30-Jan-2024 15:57:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/cevol029/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/cevol029/public_html/wp-includes/blocks/index.php on line 8
+[31-Jan-2024 20:52:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/cevol029/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/cevol029/public_html/wp-includes/blocks/index.php on line 8
+[04-Feb-2024 20:14:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/cevol029/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/cevol029/public_html/wp-includes/blocks/index.php on line 8
+[05-Feb-2024 16:40:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/cevol029/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/cevol029/public_html/wp-includes/blocks/index.php on line 8
+[18-Feb-2024 19:24:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/cevol029/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/cevol029/public_html/wp-includes/blocks/index.php on line 8
+[26-Feb-2024 19:11:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/cevol029/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/cevol029/public_html/wp-includes/blocks/index.php on line 8

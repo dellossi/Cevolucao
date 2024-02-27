@@ -1,0 +1,27 @@
+[29-Jan-2024 14:06:36 UTC] PHP Warning:  Undefined array key "captcha_response" in /home1/ppong549/public_html/wp-content/plugins/advanced-google-recaptcha/libs/ajax.php on line 75
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Undefined array key "options" in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 587
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 587
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Undefined array key "options" in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup2.php on line 356
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup2.php on line 356
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Undefined array key "jobs" in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 428
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 428
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Undefined array key "options" in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 2377
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 2377
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Undefined array key "jobs" in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 2419
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 2419
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Undefined array key "options" in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 2412
+[29-Jan-2024 14:27:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup-task_2.php on line 2412
+[29-Jan-2024 14:27:55 UTC] PHP Fatal error:  Uncaught TypeError: array_shift(): Argument #1 ($array) must be of type array, null given in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup2.php:549
+Stack trace:
+#0 /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup2.php(549): array_shift(NULL)
+#1 /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup2.php(377): WPvivid_Backup_2->upload('wpvivid-65b7b5e...')
+#2 /home1/ppong549/public_html/wp-includes/class-wp-hook.php(324): WPvivid_Backup_2->backup_now_2('')
+#3 /home1/ppong549/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#4 /home1/ppong549/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/ppong549/public_html/wp-admin/admin-ajax.php(188): do_action('wp_ajax_wpvivid...')
+#6 {main}
+  thrown in /home1/ppong549/public_html/wp-content/plugins/wpvivid-backuprestore/includes/new_backup/class-wpvivid-backup2.php on line 549
+[30-Jan-2024 13:36:18 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/cevol029/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[30-Jan-2024 13:36:22 UTC] PHP Warning:  Attempt to read property "title" on null in /home1/cevol029/public_html/wp-includes/class-wp-customize-widgets.php on line 905
+[21-Feb-2024 18:00:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/cevol029/public_html/wp-content/plugins/royal-elementor-addons/modules/data-table/widgets/wpr-data-table.php on line 2030
+[26-Feb-2024 17:14:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cevol029/public_html/wp-admin/data.php:1) in /home1/cevol029/public_html/wp-admin/data.php on line 34
